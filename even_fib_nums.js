@@ -23,7 +23,6 @@ function _sumFibs(maxFibValue) {
       sum += current;
     }
   }
-  console.log(sum);
   return sum;
 }
 
